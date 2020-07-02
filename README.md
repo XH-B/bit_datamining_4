@@ -13,5 +13,4 @@ abalone_benchmarks  https://ir.library.oregonstate.edu/concern/datasets/47429f15
 CBLOF，KNN，HBOS，PCA
 
 （3）提交文件说明：
-
-1、homework_4.html和homework_4.ipynb为实验分析报告
+.html和.ipynb文件为实验代码和分析报告
